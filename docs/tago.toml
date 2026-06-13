@@ -1,0 +1,10 @@
+title       = "gutenberg"
+baseURL     = "https://gutenberg-cli.tamnd.com/"
+description = "Browse Project Gutenberg free ebooks via Gutendex API"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/gutenberg-cli"
